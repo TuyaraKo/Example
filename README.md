@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Skypro-portfolio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###Портфолио аналитика данных###
+Привет! Меня зовут {name}, я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время онлайн-курса по анализу данных.
 
-<!---
-Skypro-portfolio/Skypro-portfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Навыки и технологии
+Языки программирования: Python, R
+Системы управления базами данных: MySQL, PostgreSQL
+Средства визуализации данных: Tableau, Matplotlib
+Сервисы облачных вычислений: AWS
+Инструменты для машинного обучения: scikit-learn, TensorFlow
+Контактная информация
+Email: ivan@example.com
+LinkedIn: [Ivan Ivanov](https://
