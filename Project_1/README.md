@@ -12,7 +12,7 @@ numpy
 seaborn
 matplotlib.pyplot
 math
-
+```
 
 
 ### Задание 1
