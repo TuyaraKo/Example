@@ -18,9 +18,9 @@
 
 ## Проекты
 - Проект 1: Ad Hoc в такси агрегаторе
-- - Ссылка на проект: https://github.com/Skypro-portfolio/Skypro-portfolio/tree/main/Project_1
+- - Ссылка на проект: https://github.com/Skypro-portfolio/Example/tree/main/Project_1
 - Проект 2: Описание проекта
-- - Ссылка на проект: https://github.com/username/project2
+- - Ссылка на проект: {link_to_project}
 
 
 ## Контактная информация
